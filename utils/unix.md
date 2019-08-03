@@ -9,4 +9,8 @@ What are these ```bin``` directories?
 - `/usr/local/sbin`
 
 ## Dev-related
+### Count files in directory
+```
+ls directory | wc -l
+```
 ### Python `console_scripts` not working with `zsh`
